@@ -6,6 +6,6 @@ let colour = prompt ('Inserisci il tuo colore preferito');
 
 const number = '21';
 
-let password_utente = (`${name}${surname}${colour}${number}`);
+let password_utente = `${name}${surname}${colour}${number}`;
 
-document.getElementById('password_utente').innerHTML = `${password_utente}`;
+document.getElementById('password_utente').innerHTML = password_utente;
