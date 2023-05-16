@@ -1,4 +1,4 @@
-PROBLEMA: Generatore di password con nome, cognome utente, colore preferito e unione del tutto con "21"
+PROBLEMA: Generatore di password con nome, cognome utente, colore preferito e unione delle variabili con "21"
 
 1 - Creazione prompt di accesso con nome utente
     1.1 - variabile con il nome del utente
